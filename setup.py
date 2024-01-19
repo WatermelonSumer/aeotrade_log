@@ -10,13 +10,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="aeotrade_log",
-    version="1.0",
+    version="0.1.2",
     author="Hero",
     author_email="wanghao@aeotrade.com",
     description="log config",
     packages=find_packages(),
     classifiers=[
-        "Programming Language :: Python :: 3.6+",
+        "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
